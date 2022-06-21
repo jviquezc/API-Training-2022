@@ -1,0 +1,64 @@
+{
+    "name": "jviquezc_api_cli.com",
+    "propertyId": 808910,
+    "propertyName": "jviquezc_api_cli.com",
+    "groupId": 19293,
+    "isSecure": false,
+    "latestVersionInfo": {
+        "propertyVersion": 2,
+        "updatedByUser": "jviquezc",
+        "updatedDate": "2022-06-16T20:47:39Z",
+        "productionStatus": "INACTIVE",
+        "stagingStatus": "INACTIVE",
+        "etag": "32144d2a4554257ead790d90f31336d53720e91e",
+        "productId": "prd_Fresca",
+        "ruleFormat": "v2021-09-22"
+    },
+    "activeIn_STAGING_Info": {
+        "propertyVersion": 1,
+        "updatedByUser": "jviquezc",
+        "updatedDate": "2022-06-16T19:56:41Z",
+        "productionStatus": "INACTIVE",
+        "stagingStatus": "ACTIVE",
+        "etag": "1e97d55573d565e2e8f5fe974da5ef5895980cc6",
+        "productId": "prd_Fresca",
+        "ruleFormat": "v2021-09-22"
+    },
+    "environmentHash": "e1bbca7ae508d218d4060d2db541e3ad6561f8b83b4904403f47945448ef3552",
+    "ruleTreeHash": "f3de84aa370fe67c8c51a96bc19c55ac8b50de31fee2bfd241ad90a77eca688d",
+    "lastValidatedHash": "e1bbca7ae508d218d4060d2db541e3ad6561f8b83b4904403f47945448ef3552",
+    "lastSaveWarnings": [
+        {
+            "type": "https://problems.luna.akamaiapis.net/papi/v0/validation/validation_message.general_warning",
+            "errorLocation": {
+                "template": "config-snippets/Augment_insights.json",
+                "variables": [],
+                "location": "children/2/criteria/0",
+                "value": {
+                    "name": "requestType",
+                    "options": {
+                        "matchOperator": "IS",
+                        "value": "CLIENT_REQ"
+                    }
+                }
+            },
+            "detail": "Matching on `Request Type` requires thorough understanding of the way Akamai Edge servers process requests.  If you are unsure about how this will affect your property, please contact your Akamai Technical representative, and please test thoroughly on staging before activating on production."
+        },
+        {
+            "type": "https://problems.luna.akamaiapis.net/papi/v0/validation/need_feature",
+            "errorLocation": {
+                "template": "config-snippets/Strengthen_security.json",
+                "variables": [],
+                "location": "children/3/behaviors/0",
+                "value": {
+                    "name": "httpStrictTransportSecurity",
+                    "options": {
+                        "enable": false
+                    }
+                }
+            },
+            "detail": "Enabling preload makes future downgrade to HTTP difficult."
+        }
+    ],
+    "lastSaveErrors": []
+}
