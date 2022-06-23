@@ -3859,3 +3859,5 @@
 [2022-06-23T13:27:28.903] [INFO] devops-prov.factory - Using credentials file: '/Users/jviquezc/.edgerc', section: 'papi'
 [2022-06-23T13:28:06.279] [INFO] devops-prov.factory - Switching account key to: 'undefined'
 [2022-06-23T13:28:06.280] [INFO] devops-prov.factory - Using credentials file: '/Users/jviquezc/.edgerc', section: 'papi'
+[2022-06-23T14:12:18.154] [INFO] devops-prov.factory - Switching account key to: 'undefined'
+[2022-06-23T14:12:18.156] [INFO] devops-prov.factory - Using credentials file: '/Users/jviquezc/.edgerc', section: 'papi'
