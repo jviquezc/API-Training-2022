@@ -1,0 +1,21 @@
+{
+    "productId": "prd_Fresca",
+    "contractId": "ctr_1-1NC95D",
+    "groupIds": [
+        19293
+    ],
+    "environments": [
+        "dev",
+        "qa",
+        "prod",
+        "stg",
+        "uat",
+        "int"
+    ],
+    "version": "0.7.8-RELEASE",
+    "isSecure": false,
+    "edgeGridConfig": {
+        "section": "papi"
+    },
+    "name": "jviquezc_cli_pipeline.com"
+}

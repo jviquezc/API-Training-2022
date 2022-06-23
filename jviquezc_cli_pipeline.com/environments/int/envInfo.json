@@ -1,0 +1,17 @@
+{
+    "name": "int",
+    "propertyName": "int.jviquezc_cli_pipeline.com",
+    "groupId": 19293,
+    "isSecure": false,
+    "propertyId": 811234,
+    "latestVersionInfo": {
+        "propertyVersion": 1,
+        "updatedByUser": "jviquezc",
+        "updatedDate": "2022-06-23T19:30:43Z",
+        "productionStatus": "INACTIVE",
+        "stagingStatus": "INACTIVE",
+        "productId": "prd_Fresca",
+        "ruleFormat": "v2021-09-22"
+    },
+    "suggestedRuleFormat": "v2021-09-22"
+}

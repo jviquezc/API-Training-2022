@@ -1,0 +1,8 @@
+[
+    {
+        "cnameFrom": "uat.jviquezc_cli_pipeline.com",
+        "cnameTo": "uat.jviquezc_cli_pipeline.com.edgesuite.net",
+        "cnameType": "EDGE_HOSTNAME",
+        "edgeHostnameId": null
+    }
+]

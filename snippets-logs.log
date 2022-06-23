@@ -3855,3 +3855,7 @@
 [2022-06-21T14:50:49.002] [INFO] devops-prov.el - parsing: CLIENT_REQ
 [2022-06-21T14:50:49.002] [INFO] snippets.merger - No variable Definitions, ignore it
 [2022-06-21T14:50:49.002] [INFO] devops-prov.el - parsing: httpStrictTransportSecurity
+[2022-06-23T13:27:28.902] [INFO] devops-prov.factory - Switching account key to: 'undefined'
+[2022-06-23T13:27:28.903] [INFO] devops-prov.factory - Using credentials file: '/Users/jviquezc/.edgerc', section: 'papi'
+[2022-06-23T13:28:06.279] [INFO] devops-prov.factory - Switching account key to: 'undefined'
+[2022-06-23T13:28:06.280] [INFO] devops-prov.factory - Using credentials file: '/Users/jviquezc/.edgerc', section: 'papi'

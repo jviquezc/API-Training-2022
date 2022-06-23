@@ -1,0 +1,8 @@
+[
+    {
+        "cnameFrom": "stg.jviquezc_cli_pipeline.com",
+        "cnameTo": "stg.jviquezc_cli_pipeline.com.edgesuite.net",
+        "cnameType": "EDGE_HOSTNAME",
+        "edgeHostnameId": null
+    }
+]
