@@ -1,7 +1,7 @@
 [
     {
         "cnameFrom": "dev.jviquezc_cli_pipeline.com",
-        "cnameTo": "dev.jviquezc_cli_pipeline.com.edgesuite.net",
+        "cnameTo": "jviquezc_API_postman.com",
         "cnameType": "EDGE_HOSTNAME",
         "edgeHostnameId": null
     }
